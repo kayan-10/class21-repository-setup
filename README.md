@@ -7,9 +7,9 @@ This repository demonstrates how to create and manage a GitHub repository.
 The repository is Public, so anyone can view it.
 
 ## Collaborators and Roles
+## Collaborators and Roles
 - Repository Owner: Admin
-- Teammate 1: Write
-- Teammate 2: Write
+- No additional collaborators have been added.
 
 ## Project Files
 - README.md: Explains the project.
